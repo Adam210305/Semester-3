@@ -1,0 +1,11 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "main": "appWebServer.js",
+  "scripts": {
+    "start": "node appWebServer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
